@@ -16,3 +16,37 @@ In English, an expression of purpose tells us what is intended by a particular c
 - He got up at 9 AM **so that he could get to class on time**.
 - He got up at 9 AM **so as to get to class on time**.
 - He got up at 9 AM **to not be late to class**.
+
+There are two things worth noting about expressions of purpose. First, they are dependent on a previous verbal construction. Second, the verbal action contained in the expression of purpose always happens after the verbal construction on which they are dependent. In other words, they have a sense of futurity to them.
+
+As you will see below, Latin has a number of ways to express purpose.  
+
+## Purpose Clauses
+
+The most common way to express purpose in Latin is through a purpose clause. Purpose clauses are dependent clauses (i.e. they generally follow an independent clause) that have three key features:
+
+- A subordinating conjunction (**ut** or its negation **ne**)
+- A subject (stated or implied)
+- A verb in the present or imperfect subjunctive
+
+How do we translate a sentence containing purpose clause? Take the following example:
+
+- Ad agrōs militēs venērunt ut urbem peterent.
+
+First, we break the sentence into dependent (bolded) and independent clauses (italicized). In the case of a sentence containing a purpose clause, we can recognize the dependent clause rather easily as it begins with **ut** or **ne**.
+
+- *Ad agrōs militēs venērunt* **ut urbem peterent**.
+
+We then translate the independent clause:
+
+- The soldiers came to the fields **ut urbem peterent**.
+
+After that, we select the appropriate translation for the purpose clause based on the nature of its subject. If the subject of the purpose clause is the same as the subject of the independent clause, we can simply translate the **ut** plus the verb as "to *verb*" or "in order to *verb*" (in case of **ne**, "to *not verb*"). In the case of the sentence above, this is the case and we can translate it as follows:
+
+- The soldiers came to the fields to attack the city.
+- The soldiers came to the fields in order to attack the city.
+
+If the subject of the purpose clause is different from that of the independent clause, we translate **ut** plus the verb as "so that [subject] could *verb*." We can see this in the example below:
+
+- *Ad agrōs militēs venērunt* **ut urbem dux peteret**.
+- The soldiers came to the fields so that the leader could attack the city.
