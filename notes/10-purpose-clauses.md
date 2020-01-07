@@ -50,3 +50,24 @@ If the subject of the purpose clause is different from that of the independent c
 
 - *Ad agrōs militēs venērunt* **ut urbem dux peteret**.
 - The soldiers came to the fields so that the leader could attack the city.
+
+## Practice Opportunities
+
+## Relative Clause of Purpose
+
+A variation on the standard purpose clause is known as the relative clause of purpose. In a relative clause of purpose, the ut or ne is replaced by a **relative pronoun** (i.e. quī, quae, quod) or **relative adverb** (i.e. ubi, unde). We can differentiate a relative clause of purpose from a regular relative clause by the use of the subjunctive:
+
+- *Ad agrōs militēs venērunt* **qui urbem peterent**.
+- They send soldiers to the fields to attack the city
+- They send soldiers to the fields who were to attack the city.
+
+## GRGs to Express Purpose
+
+Last semester, we learned about how gerund-replacing-gerundives (click [here](https://libatique.info/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) to review) can be used express a verbal action and the object which receives the action. The GRG can also be used as the object of the prepositions *ad (in the accusative)* and *causā/gratiā (in the genitive)* to express purpose. 
+
+Thus, our example sentence can be written in the following ways as well:
+
+- Ad agrōs militēs venērunt **ad petendam urbem**.
+- Ad agrōs militēs venērunt **petendae urbis causā**.
+
+NB: GRGs take their case from their function in the sentence, but their gender and number from their object.
