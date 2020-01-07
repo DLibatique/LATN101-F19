@@ -353,19 +353,38 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - [Deponent Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#deponent-verbs)
 
 ### Wednesday, December 11
-- Review and Practice
-- Translation #6 Revision Due
+- [4th](https://dlibatique.github.io/LATN101-F19/charts/0-noun-master/#fourth-declension-masculinefeminine) and [5th](https://dlibatique.github.io/LATN101-F19/charts/0-noun-master/#fifth-declension-masculinefeminine) Declensions
 
 ### Friday, December 13
 - Looking Ahead to Introduction to Latin 2  
-- Composition #6 Revision Due
+- Memorize [Modules 7-8 Vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/7-8/).
+- Write down your commitment for what you'll do for 10-15 minutes per day over break to keep up your Latin before LATN 102 in the spring, and bring it into class today. This will count as one quiz grade.
 
 [Back to top.](#top)
 
 ***
 
-## Study Period: December 14-16
+## Final Assignment Links
+
+- [Final Translation](https://docs.google.com/document/d/1MgJYnjseXIlIn1wlb16d30B2iCIOZIf6frjsM1TsQzU/edit?usp=sharing)
+- [Final Composition](https://docs.google.com/document/d/1U9H27SCWNFnsTXN3osBV6n78b-xYMUPz_NcXw2YaWAk/edit?usp=sharing)
 
 ***
 
-## Exam Period: December 17-21
+## 8am Section Deadlines
+
+### Th 12/19 at 11am
+- initial submission of Final Translation and Final Composition Due (if you intend to submit revisions)  
+
+### Sa 12/21 at 11am
+- final submission of Translation #6 revision, Composition #6 revision, Final Translation, and Final Composition all due
+
+***
+
+## 11am Section Deadlines
+
+### M 12/16 at 2:30pm
+- initial submission of Final Translation and Final Composition Due (if you intend to submit revisions)  
+
+### W 12/18 at 2:30pm
+- final submission of Translation #6 revision, Composition #6 revision, Final Translation, and Final Composition all due
