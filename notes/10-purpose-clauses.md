@@ -61,13 +61,21 @@ A variation on the standard purpose clause is known as the relative clause of pu
 - They send soldiers to the fields to attack the city
 - They send soldiers to the fields who were to attack the city.
 
-## GRGs to Express Purpose
+## GRGs with Prepositions
 
-Last semester, we learned about how gerund-replacing-gerundives (click [here](https://libatique.info/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) to review) can be used express a verbal action and the object which receives the action. The GRG can also be used as the object of the prepositions *ad (in the accusative)* and *causā/gratiā (in the genitive)* to express purpose. 
+Last semester, we learned about how gerund-replacing-gerundives (click [here](https://libatique.info/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) to review) can be used express a verbal action and the object which receives the action. The GRG can also be used as the object of the prepositions *ad (in the accusative)* and *causā/gratiā (in the genitive)* to express purpose.
 
 Thus, our example sentence can be written in the following ways as well:
 
-- Ad agrōs militēs venērunt **ad petendam urbem**.
-- Ad agrōs militēs venērunt **petendae urbis causā**.
+- Ad agrōs militēs venērunt **ad petendam urbem**. (The soldiers came to the fields **for the purpose of attacking the city/to attack the city**.)
+- Ad agrōs militēs venērunt **petendae urbis causā**. (The soldiers came to the fields **for the sake of attacking the city/to attack the city**.)
 
 NB: GRGs take their case from their function in the sentence, but their gender and number from their object.
+
+## Future Active Participles
+
+As we noted a few weeks ago, participles or verbal adjectives play a large number of roles in Latin. One of these roles is as a way to express purpose. We use the future active participle (click here [] to review), which naturally indicates future intent ("about to *verb*"), to express purpose. When translating the future active participle as an expression of purpose, it is important to remember that participles modify nouns and, thus, it will be the noun modified by the participle that will be acting with a particular purpose in mind.
+
+To follow up on our example again:
+
+- Ad agrōs militēs **petituri urbem** venērunt. (The soldiers, **intending to the city**, came to the field.) 
