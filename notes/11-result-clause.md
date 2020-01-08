@@ -46,3 +46,11 @@ If the subject of the purpose clause is different from that of the independent c
 
 - *Tantā irā conclamavērunt* **ut nēmo responderet**.
 - They shouted with such great anger that no one responded.
+
+## Practice Opportunities
+
+## Relative Clause of Result
+
+A variation on the standard result clause is known as the relative clause of result. In a relative clause of result, the ut is replaced by a **relative pronoun** (i.e. quī, quae, quod) or **relative adverb** (i.e. ubi, unde). In these cases, qui stands for "ut + person pronoun" and ubi stands for "ut + ibi"
+
+We can differentiate a relative clause of result from a regular relative clause by the use of the subjunctive. Below are some examples:
