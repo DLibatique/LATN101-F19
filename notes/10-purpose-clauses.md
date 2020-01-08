@@ -78,4 +78,16 @@ As we noted a few weeks ago, participles or verbal adjectives play a large numbe
 
 To follow up on our example again:
 
-- Ad agrōs militēs **petituri urbem** venērunt. (The soldiers, **intending to the city**, came to the field.) 
+- Ad agrōs militēs **petituri urbem** venērunt. (The soldiers, **intending to attack the city**, came to the field.)
+
+## The Supine
+
+The last and least common way to express purpose in Latin is by using the supine. The supine is weird verbal noun whose origin is not very well understood. However, it is very closely related to the fourth principal part and exists in only two cases: the accusative and the ablative. We form the accusative supine by dropping the -us from the fourth principal part and add a -um and the ablative supine (e.g. amatus becomes **amatum** in the accusative and **amatu** in the ablative).
+
+The accusative supine is used with only a verb of motion to express purpose (we will learn about the ablative supine later). Here our example sentence using the supine:
+
+- Ad agrōs militēs **petitum urbem** venērunt. (The soldiers came to the field to attack the city.)
+
+## Additional Practice
+
+Find the phrase that expresses purpose in the sentence and identify the Latin construction. Then, translate.
