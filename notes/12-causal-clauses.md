@@ -18,10 +18,18 @@ Causal clauses are dependent clauses that explain why the action of the dependen
 - pācem nolō quod difficilis est. (I do not want peace because (to my mind) it is difficult.)
 - pācem noluit quod difficilis esset. (He does not want peace because (to his mind) it is difficult.)
 
-NB: Quod can be differentiated from the relative pronoun quite easily. If there is no neuter singular antecedent 
+NB: Quod can be differentiated from the relative pronoun quite easily. If there is no neuter singular antecedent, then quod cannot be a pronoun.
 
-**Quoniam** is used almost solely with the indicative to indicate a cause that is true in the eye of the speaker or writer.
+**Quoniam** is used almost solely with the indicative to introduce a cause in the eyes of the writer or speaker.
 
-**Cum clauses** that feature a subjunctive verb can indicate cause. In these cases, we translate cum as because.
+- Quoniam puellam amat, mittere eum ad bellum nolo. (Because he loves the girl, I do not wish to send him to war.)
 
-If there is a causal clause in indirect
+**Cum clauses** that feature a subjunctive verb can indicate cause. In these cases, we translate cum as "because.""
+
+- Cum puellam amaret, fortiter pugnavit. (Because he loved the girl, he fought bravely.)
+
+Note in the sentence above, it would not make any sense if you translate it as "when."
+
+If there is a causal clause in indirect statement, the causal clause will always have a subjunctive verb. Can you think of reason why this might be the case?
+
+## Additional Practice
