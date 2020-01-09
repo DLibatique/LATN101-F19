@@ -5,7 +5,7 @@ title: Module 12 - Causal Clauses
 
 ***
 
-[Causal Clauses](#expressions-of-purpose) \|
+[Causal Clauses](#causal-clauses) \|
 
 ***
 
