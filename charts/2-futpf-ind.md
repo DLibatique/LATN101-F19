@@ -22,7 +22,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | amāverō       | amāverimus     |
 | 2nd  | amāveris        | amāveritis        |
-| 3rd  | **amāverit**        | **amāverant**     |
+| 3rd  | **amāverit**        | **amāverint**     |
 
 ### <a name="2ndact">Second Conjugation</a>
 
@@ -32,7 +32,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | vīderō       | vīderimus      |
 | 2nd  | vīderis        | vīderitis       |
-| 3rd  | **vīderit**        | **vīderant**     |
+| 3rd  | **vīderit**        | **vīderint**     |
 
 ### <a name="3rdact">Third Conjugation</a>
 
@@ -42,7 +42,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | dūxerō       | dūxerimus      |
 | 2nd  | dūxeris        | dūxeritis        |
-| 3rd  | **dūxerit**        | **dūxerant**     |
+| 3rd  | **dūxerit**        | **dūxerint**     |
 
 ### <a name="3rdioact">Third -iō Conjugation</a>
 
@@ -52,7 +52,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | cēperō       | cēperimus      |
 | 2nd  | cēperis        | cēperitis        |
-| 3rd  | **cēperit**        | **cēperant**     |
+| 3rd  | **cēperit**        | **cēperint**     |
 
 ### <a name="4thact">Fourth Conjugation</a>
 
@@ -62,7 +62,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | audīverō       | audīverimus      |
 | 2nd  | audīveris        | audīveritis        |
-| 3rd  | **audīverit**        | **audīverant**     |
+| 3rd  | **audīverit**        | **audīverint**     |
 
 ### <a name="sum">*Sum*</a>
 
@@ -72,7 +72,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | fuerō       | fuerimus      |
 | 2nd  | fueris        | fueritis        |
-| 3rd  | **fuerit**        | **fuerant**     |
+| 3rd  | **fuerit**        | **fuerint**     |
 
 ### <a name="possum">Possum</a>
 
@@ -82,7 +82,7 @@ The charts below will show full charts for the future perfect active indicative 
 | ----------- | ----------- | ----------- |
 | 1st   | potuerō       | potuerimus      |
 | 2nd  | potueris        | potueritis        |
-| 3rd  | **potuerit**        | **potuerant**     |
+| 3rd  | **potuerit**        | **potuerint**     |
 
 [Back to top.](#top)
 
